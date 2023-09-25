@@ -11,6 +11,7 @@ When I purchased the car on August 12, 2019, it was running and driving and reas
 3. [Fuel Injection System](Fuel%20Injection.md) - Speeduino
 4. [Transmission & Driveshaft](Transmission.md)
 5. [Front Suspension](Front%20Suspension.md)
-6. [Rear Suspension & Axle w/ LSD](Rear%20Suspension.md)
-7. HVAC install
-8. Rust repairs - sills/rockers
+6. [Front Crossmember](Front%20Crossmember.md)
+7. [Rear Suspension & Axle w/ LSD](Rear%20Suspension.md)
+8. HVAC install
+9. Rust repairs - sills/rockers

@@ -12,6 +12,7 @@ When I purchased the car on August 12, 2019, it was running and driving and reas
 4. [Transmission & Driveshaft](Transmission.md)
 5. [Front Suspension](Front%20Suspension.md)
 6. [Front Crossmember](Front%20Crossmember.md)
-7. [Rear Suspension & Axle w/ LSD](Rear%20Suspension.md)
-8. HVAC install
-9. Rust repairs - sills/rockers
+7. [Front Brakes](Front%20Brakes.md)
+8. [Rear Suspension & Axle w/ LSD](Rear%20Suspension.md)
+9. HVAC install
+10. Rust repairs - sills/rockers
